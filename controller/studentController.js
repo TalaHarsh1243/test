@@ -27,7 +27,6 @@ exports.store=(req,res)=>{
         artist:req.body.artist,
         category:req.body.category,
         album:req.body.category,
-        album:req.body.album,
         url:req.body.url,
         photo:req.body.photo,
         year: req.body.year,
